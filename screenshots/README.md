@@ -1,11 +1,11 @@
 # Screenshots
 
-This folder is for product screenshots and visual media used in the showcase.
+Product screenshots used in the [main README](../README.md).
 
-Suggested images to add:
-- `dashboard.png` — the command center dashboard
-- `scraping.png` — a lead scraping job in progress
-- `leads.png` — enriched and scored lead list
-- `outreach.png` — AI-personalized outreach campaign
-
-Once added, reference them in the main [README](../README.md) to make the showcase more compelling for visitors and clients.
+| File | Description |
+|------|-------------|
+| `dashboard.png` | Sales Command Center — pipeline funnel, tier distribution, score trends, activity feed. |
+| `command-center.png` | Multi-platform lead view — leads from LinkedIn, Instagram, Facebook, Google Maps, website scraper. |
+| `icp-scoring.png` | ICP & Lead Quality Engine — ideal customer profile, decision-maker titles, qualification rules. |
+| `intelligence-engine.png` | Intelligence Engine — AI lead enrichment and analysis across all platforms. |
+| `hot-leads.png` | Hot Leads — AI-processed, enriched leads ready for multi-channel outreach. |

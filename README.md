@@ -10,6 +10,32 @@ The Advenno AI Sales Agent is an end-to-end lead generation and outreach platfor
 
 ---
 
+## Screenshots
+
+A look inside the Advenno AI Sales Agent platform.
+
+### Sales Command Center Dashboard
+[![Advenno AI Sales Agent dashboard — pipeline funnel, tier distribution, lead scoring and activity analytics](screenshots/dashboard.png)](screenshots/dashboard.png)
+*Real-time overview: total leads, pipeline funnel, tier distribution, score trends, and recent activity.*
+
+### Command Center — Multi-Platform Lead View
+[![Advenno Sales Agent command center — leads across LinkedIn, Instagram, Facebook, Google Maps and website sources ranked by intelligence](screenshots/command-center.png)](screenshots/command-center.png)
+*All leads from every source — LinkedIn, Instagram, Facebook, Google Maps, website scraper — ranked by AI intelligence.*
+
+### ICP & Lead Quality Engine
+[![Advenno AI Sales Agent ICP scoring engine — define ideal customer profile, decision-maker titles, target industries and qualification rules](screenshots/icp-scoring.png)](screenshots/icp-scoring.png)
+*Define your Ideal Customer Profile — decision-maker titles, target industries, score thresholds — so AI credits are spent only on leads worth pursuing.*
+
+### Intelligence Engine
+[![Advenno Sales Agent intelligence engine — AI lead enrichment and analysis across all platforms](screenshots/intelligence-engine.png)](screenshots/intelligence-engine.png)
+*Deep AI enrichment and analysis across every platform, with filtering by status, tier, urgency, and industry.*
+
+### Hot Leads — Ready for Outreach
+[![Advenno AI Sales Agent hot leads view — AI-processed, enriched leads ready for multi-channel outreach](screenshots/hot-leads.png)](screenshots/hot-leads.png)
+*AI-processed, fully enriched leads — with email, phone, website, and quality score — ready for outreach.*
+
+---
+
 ## What is the Advenno AI Sales Agent?
 
 **It is an AI-powered sales prospecting and outreach platform.** It automates the entire top of the sales funnel: finding leads, researching them, prioritizing them, and reaching out — across email, WhatsApp, and SMS.
