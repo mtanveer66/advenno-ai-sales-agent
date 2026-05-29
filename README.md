@@ -1,5 +1,35 @@
 # Advenno AI Sales Agent — Automated Lead Generation & Outreach
 
+<!-- recruiter-snapshot:start -->
+## Recruiter Snapshot
+
+**What this shows:** AI sales automation system for lead generation, enrichment, scoring, and multi-channel outreach.
+
+**My role / team role:** Designed the lead workflow, dashboard experience, scoring logic, enrichment flow, and outreach-review case study materials.
+
+**Public proof:** Screenshots show the command center, ICP scoring, intelligence engine, lead analytics, and ready-for-outreach views.
+
+**Tech and implementation areas:**
+- Python/FastAPI-style APIs
+- React/Vite dashboard
+- AI lead scoring
+- Apify/data enrichment
+- CSV/export workflows
+
+**Relevant roles this project supports:**
+- AI Automation Developer
+- Full-Stack AI Engineer
+- Sales Automation Engineer
+- B2B Workflow Automation Developer
+
+## Source Code Access
+
+This is a public case-study repository. The production source code is private because it may contain proprietary business logic, client workflows, credentials, deployment details, or reusable internal implementation patterns. The public repo is intentionally focused on the product, screenshots, workflow, architecture, and evaluation material.
+
+For technical review, we can provide a live demo walkthrough, private repository access under NDA, a code screen-share, architecture review, or redacted implementation samples.
+<!-- recruiter-snapshot:end -->
+
+
 > **Find your next clients automatically — scraped, enriched, scored, and contacted by AI.**
 
 The Advenno AI Sales Agent is an end-to-end lead generation and outreach platform. It discovers business leads from multiple sources, enriches them with intelligence, scores them for fit, and runs personalized multi-channel outreach — so your pipeline fills itself.
